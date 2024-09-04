@@ -8,4 +8,11 @@ Step :
 ## Getting Started
 This project is a starting point for a Flutter application.
 
-![alt text]([http://url/to/img.png](https://thumbs.dreamstime.com/z/programmer-problems-funny-meme-programmers-copying-pasting-code-coding-industry-social-media-sharing-267302479.jpg))
+## Visitors Count
+<img align="left" src = "https://profile-counter.glitch.me/rendom_avatar/count.svg" alt ="Loading">
+
+![alt text](https://thumbs.dreamstime.com/z/programmer-problems-funny-meme-programmers-copying-pasting-code-coding-industry-social-media-sharing-267302479.jpg)
+
+
+
+
