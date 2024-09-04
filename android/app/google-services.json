@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "893728763626",
+    "project_id": "lodlaos",
+    "storage_bucket": "lodlaos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893728763626:android:59bffa35db4e57fe3e7193",
+        "android_client_info": {
+          "package_name": "com.technology.netviet.lod_laos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893728763626-smh1hble7t68gs98dtjbh7ut1bl0ekh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBww2to6Znqv7BTJL4ZFlaX3bbwDS6WR_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893728763626-smh1hble7t68gs98dtjbh7ut1bl0ekh2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "893728763626-0hpipnmob9og9jrtcl0jilmnacre2ihf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.technology.netviet.lodLaos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
